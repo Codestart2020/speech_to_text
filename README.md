@@ -4,7 +4,7 @@ This project utilizes speech recognition and text-to-speech technologies to inte
 
 
 Usage
-Usage
+
 Once the project is set up, you can use it as follows:
 
 Run main.py.
